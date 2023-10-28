@@ -22,5 +22,5 @@ I am open to establishing new professional connections and career development op
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Angular, Typescript, NodeJs, 
+Javascript, HTML, CSS, Angular, Typescript, NodeJs, SCSS, GULP, Webpack, RXJS, Rest API
 
