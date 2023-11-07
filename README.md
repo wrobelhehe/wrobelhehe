@@ -15,7 +15,7 @@ I am open to establishing new professional connections and career development op
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/wiktorwrobel/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://www.linkedin.com/in/wiktorwrobel/](https://wiktorwrobelportfolio.netlify.app/))
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktorwrobel/)
 
